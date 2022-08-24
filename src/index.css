@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+body {
+  background-image: linear-gradient(180deg, #008ae0 0, #0087e6 7.14%, #0084ea 14.29%, #0081ed 21.43%, #007ded 28.57%, #0079ec 35.71%, #0074e9 42.86%, #486ee5 50%, #6968df 57.14%, #8161d8 64.29%, #955acf 71.43%, #a553c5 78.57%, #b34bba 85.71%, #bf43ae 92.86%, #c93ca1 100%);  width: 100%;
+}
+
+.titulo {
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  font-size: 30px;
+  color: rgb(6, 6, 6);
+  font-weight: bold;
+}
+.pieDePagina{
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+
+}
